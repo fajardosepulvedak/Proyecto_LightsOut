@@ -15,7 +15,7 @@ Una vez ejecutado el videojuego obtendremos el siguiente resultado en la termina
 <img width="1913" height="628" alt="image" src="https://github.com/user-attachments/assets/e111840d-0032-464b-9eea-b351da773ae0" />
 
 Se trata del menú de inicio del videojuego, donde podemos seleccionar una dificultad entre fácil, intermedio y difícil.
-Para seleccionar una dificultad se utiliza las siguientes teclas del teclado:
+Para seleccionar una dificultad se utiliza las siguientes teclas:
 - W: Mover hacia arriba
 - S: Mover hacia abajo
 - Enter: Confirmar dificultad
