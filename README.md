@@ -1,6 +1,10 @@
 # Proyecto_LightsOut.
 El proyecto se trata del videojuego Lights Out creado con Python, este programa se ejecuta y funciona dentro de una terminal como: cmd o powershell de Windows.
 
+## Autores
+- Fajardo Sepulveda Kevin Yovanni
+- Salcido Peralta Jorge Manuel
+
 ## Información para la ejecución del videojuego.
 Para ejecutar este programa primero es necesario descargar Python en el equipo, puedes descargar el instalador en la página oficial de Python <a src="https://www.python.org/downloads/">https://www.python.org/downloads/</a>, después hacer lo siguiente:
 - Se debe descargar los 3 archivos (comandos_consola.py, impresiones.py y light.py) y colocarlos dentro de una misma carpeta.
